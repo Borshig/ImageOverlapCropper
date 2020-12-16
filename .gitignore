@@ -31,6 +31,15 @@
 *.out
 *.app
 
+# Logs
+*.tlog
+*.log
+
+#others
+*.db
+*.txt
+*.cmake
+
 
 # folders
 

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Borshig\source\repos\CUDAtest\CUDAtest\libs\freeglut\CMakeFiles\53123cd8813cb0392263d2219a407bf4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{75ED619F-1FAD-32B8-8DC8-31EF165C2093}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
