@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+
+# folders
+
+/.vs
+/FreeImage.vcxproj.filters
+/FreeImage.vcxproj.user
+/Release
+/x64/Debug/
+/x64/Release/
